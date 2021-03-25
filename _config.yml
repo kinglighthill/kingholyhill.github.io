@@ -1,2 +1,3 @@
 name: Kingsley Ugwudinso, Horrible Dev
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
